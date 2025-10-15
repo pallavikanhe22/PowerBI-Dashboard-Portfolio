@@ -1,0 +1,201 @@
+FirstName,LastName,Department,Age,Gender,JoiningDate,GPA,Attendance,Semester,City,Country,Scholarship,Extracurriculars,ResearchPapers,OnCampusJob
+Sarah,Ashley,Chemistry,26,Other,06-01-2021,3.009915677,74,3,San Jose,Canada,1796,15,0,No
+Catherine,Davis,Mathematics,30,Female,07-01-2022,2.242234013,12,3,Dallas,USA,3203,5,10,No
+Robert,Bates,Computer Science,23,Male,28-01-2017,3.792613753,54,4,San Diego,Germany,2326,10,4,No
+John,Stanton,Literature,20,Other,01-08-2016,2.045092589,17,2,San Jose,Canada,2213,3,3,No
+Beth,Johnson,Literature,29,Other,16-02-2021,3.544069008,45,2,Los Angeles,India,662,8,10,Yes
+Matthew,Krueger,Literature,18,Male,10-01-2022,3.8815333,65,2,Los Angeles,Australia,3997,20,8,Yes
+Jeff,Keller,History,22,Male,27-11-2019,3.323953729,18,3,Austin,Canada,2151,10,4,No
+Brittany,Alexander,Literature,29,Male,13-09-2017,3.901085117,93,5,Los Angeles,USA,547,14,9,No
+Kelly,Garcia,Computer Science,25,Male,30-01-2019,3.320632658,80,1,Houston,India,4922,8,3,No
+Christina,Brady,Computer Science,24,Other,17-11-2023,3.61989375,37,2,Houston,India,4077,11,2,Yes
+Kayla,Maxwell,Literature,27,Male,05-04-2016,3.449613525,58,4,Houston,Canada,1248,18,10,Yes
+Robert,Proctor,Mathematics,28,Other,15-08-2016,2.21034921,49,1,Dallas,Germany,1769,18,2,Yes
+Stacey,Zuniga,Chemistry,25,Male,18-10-2018,2.240672684,3,8,San Jose,Germany,2884,20,7,Yes
+Ryan,Figueroa,Chemistry,25,Male,30-04-2017,2.514155198,32,7,Los Angeles,Germany,3107,5,5,Yes
+Michael,Mcdowell,Chemistry,22,Female,31-07-2023,3.458723027,16,4,Phoenix,USA,2806,2,4,No
+Mario,Lowe,Physics,27,Female,10-03-2017,3.930434537,66,8,San Diego,India,1262,6,9,Yes
+Brett,Robinson,Mathematics,24,Female,19-08-2015,3.149516887,41,6,New York,Australia,4637,8,8,Yes
+Jeffrey,Gardner,Engineering,29,Male,07-09-2021,2.179904835,40,2,Los Angeles,France,2534,16,0,No
+Brianna,Stevens,Computer Science,18,Other,22-01-2018,3.212566567,79,7,San Diego,France,3564,7,4,Yes
+Frank,Coffey,History,19,Female,15-07-2016,3.599512777,11,2,Houston,Germany,3545,14,7,No
+Catherine,Bryant,Mathematics,28,Male,07-07-2020,2.745974239,25,1,New York,India,4921,0,5,Yes
+Marissa,Price,Literature,19,Male,30-04-2018,2.974697155,73,5,San Jose,Canada,3212,13,0,No
+Matthew,Conley,Chemistry,30,Female,28-02-2020,3.527676248,92,5,Chicago,UK,2877,8,7,Yes
+Brenda,White,Physics,18,Female,25-05-2021,2.534481378,60,7,San Jose,India,2370,3,8,No
+Jessica,Castillo,Biology,23,Female,21-10-2023,2.435000397,66,5,San Diego,USA,2659,14,1,Yes
+Michael,Gutierrez,Biology,20,Female,31-03-2016,2.722068029,67,5,Austin,UK,3496,10,0,Yes
+Veronica,Miller,Chemistry,29,Other,09-03-2019,3.509887093,18,1,San Jose,Canada,1485,6,6,No
+Alicia,Dominguez,Physics,26,Other,16-04-2024,2.840537891,13,6,Chicago,India,2804,11,10,No
+Daniel,Bailey,Engineering,24,Female,27-04-2016,3.301616907,22,5,San Diego,Australia,3680,15,8,No
+Autumn,Morris,Biology,18,Other,08-08-2023,3.696156468,53,6,Chicago,USA,1783,1,5,Yes
+Bryan,Herrera,Biology,28,Male,07-08-2020,2.227895791,98,3,Chicago,UK,2553,8,8,No
+Mark,Anderson,Computer Science,21,Other,21-01-2021,2.198378448,92,2,Dallas,USA,1454,13,3,No
+Brianna,Scott,Literature,29,Female,02-10-2017,3.717625845,67,6,New York,UK,3958,7,9,Yes
+Erin,Ford,Mathematics,28,Male,18-12-2019,2.103177467,91,6,Los Angeles,Australia,3956,12,2,No
+Sierra,Pham,Engineering,23,Female,29-11-2024,2.22167994,50,1,Austin,Germany,4518,7,10,No
+Margaret,Thomas,Engineering,26,Female,14-05-2024,2.840796322,44,5,Dallas,France,884,3,9,Yes
+Gabriel,Johnson,Biology,18,Female,04-02-2020,3.835605149,94,6,Phoenix,UK,1288,6,7,Yes
+Michelle,Brooks,Engineering,28,Male,11-11-2020,2.832462227,8,4,New York,France,2322,1,6,No
+Eric,Gonzales,Mathematics,24,Male,31-03-2017,3.779271789,33,8,Houston,Germany,2992,16,0,No
+Jennifer,Cole,Computer Science,28,Female,05-01-2021,2.474410564,10,8,Los Angeles,UK,2716,9,1,No
+Ashley,Davidson,History,25,Other,20-03-2024,2.585129042,35,6,Dallas,UK,3298,1,0,No
+Christine,Melendez,Biology,27,Male,06-11-2016,2.209047518,72,3,Phoenix,Australia,3140,10,10,Yes
+Brian,Hart,History,22,Male,22-11-2021,2.40075051,97,1,Dallas,UK,3139,10,2,Yes
+Melanie,Rhodes,Physics,27,Male,20-11-2017,2.404917742,87,2,Dallas,UK,875,12,9,Yes
+Sean,Lopez,Computer Science,23,Female,14-08-2017,2.089868325,16,6,Los Angeles,France,2879,20,5,No
+Travis,Molina,Literature,25,Female,27-11-2018,2.087680716,59,8,Houston,USA,1265,13,5,No
+Amanda,Perry,History,19,Male,06-07-2017,3.201357958,87,2,San Diego,India,2987,4,4,Yes
+Christopher,Evans,Engineering,20,Other,09-07-2020,2.77200489,21,7,Phoenix,Australia,4481,2,0,No
+Elizabeth,Munoz,Physics,19,Female,18-03-2017,3.548112067,7,1,Dallas,Australia,1469,7,7,No
+Jeremy,Murphy,History,27,Female,14-03-2015,2.956506521,63,2,Chicago,France,4330,17,10,Yes
+Amber,Jackson,Engineering,24,Female,03-09-2016,3.905649678,64,4,Austin,Canada,3141,3,8,Yes
+Samantha,Perez,History,26,Male,19-02-2016,2.214001676,2,8,Houston,Germany,2486,1,5,No
+Oscar,Howell,Biology,20,Male,30-04-2019,3.817106526,41,4,Los Angeles,Canada,4870,9,7,Yes
+Monica,Estrada,History,25,Male,23-11-2017,3.247006796,95,6,Austin,Germany,2480,11,6,Yes
+Kenneth,Weber,Computer Science,22,Other,24-08-2019,2.678012162,84,5,Houston,France,1934,1,7,Yes
+Kimberly,Carter,Literature,18,Male,05-10-2022,2.58686268,34,4,Austin,Australia,2848,11,10,No
+Stephen,Wells,Mathematics,25,Other,29-05-2016,2.521727249,75,2,Houston,India,3960,20,0,Yes
+Ryan,Walker,Computer Science,19,Male,18-07-2022,2.563257463,94,3,San Jose,France,1667,11,10,No
+Mandy,Gray,History,24,Female,08-08-2021,3.76066515,17,5,San Diego,India,1181,0,8,No
+Aaron,Davidson,Mathematics,28,Other,23-10-2022,3.629907938,13,4,Phoenix,Canada,4313,17,4,No
+Kelly,Mcgee,Chemistry,23,Female,28-05-2016,3.024463554,2,2,New York,Canada,699,0,4,No
+Bryan,Cooper,Mathematics,20,Female,05-04-2021,3.353688104,77,2,New York,France,761,11,9,No
+Kenneth,Garcia,Mathematics,27,Female,21-11-2016,2.310937752,80,3,Dallas,UK,618,3,0,No
+Christina,Carpenter,Engineering,24,Female,29-12-2024,3.562841792,16,4,Dallas,Canada,3457,11,6,No
+Joseph,Allen,Engineering,24,Female,31-05-2015,2.591549283,94,5,Chicago,France,871,15,10,Yes
+David,White,History,24,Female,23-01-2023,3.850652564,80,6,New York,France,4951,18,2,No
+John,Silva,Mathematics,25,Other,07-02-2020,3.026001345,63,7,Los Angeles,USA,3326,17,8,Yes
+Karen,Vasquez,Engineering,19,Female,27-11-2017,3.445156719,44,5,Houston,USA,4608,8,9,No
+Elizabeth,Rogers,Computer Science,29,Male,22-04-2024,3.269680936,24,3,Phoenix,UK,715,1,8,No
+Heidi,Zamora,Biology,23,Female,09-12-2021,3.239532048,100,4,New York,Germany,584,13,3,No
+Kirsten,Sparks,Chemistry,19,Male,17-01-2016,2.813176678,46,2,San Diego,USA,2358,3,9,No
+Drew,House,Biology,23,Female,07-08-2023,2.074564166,80,5,Chicago,France,4728,8,4,Yes
+Amanda,Bennett,Computer Science,18,Other,13-04-2024,2.327672551,12,2,Austin,USA,2158,10,7,Yes
+Frank,Gonzalez,History,20,Other,05-10-2019,3.125145459,25,4,Chicago,Germany,1043,6,3,No
+Melissa,Smith,History,27,Female,09-12-2016,3.594378028,54,1,Austin,UK,1100,17,4,Yes
+Amanda,Jones,Chemistry,26,Male,24-09-2020,2.314431092,62,4,Chicago,Germany,3588,14,4,Yes
+Anthony,Williams,Mathematics,24,Female,06-12-2020,3.005740855,2,3,Phoenix,Canada,1565,5,4,Yes
+Tammy,Jones,Biology,23,Male,26-11-2023,2.031606903,80,5,Dallas,Australia,1679,3,4,No
+Jennifer,Haney,Biology,26,Female,12-06-2015,3.653091975,28,5,Chicago,UK,576,10,6,Yes
+Miranda,Thomas,Engineering,23,Female,21-07-2018,3.928792848,91,2,Los Angeles,India,1331,8,3,No
+Michael,Massey,Chemistry,26,Male,03-05-2019,2.842106748,33,3,San Diego,India,1581,15,0,No
+Rachel,Short,Computer Science,28,Other,16-02-2022,3.953974954,80,2,Dallas,France,4663,12,2,No
+Kevin,Medina,Biology,28,Male,07-10-2017,3.189958183,1,1,Los Angeles,Germany,1483,4,7,No
+Emily,Nelson,History,18,Male,22-08-2015,2.536751451,58,7,Houston,India,1979,17,0,Yes
+Robert,Baker,Mathematics,30,Other,19-10-2019,3.013880613,20,6,San Diego,Australia,1103,20,6,Yes
+Brianna,Matthews,Mathematics,26,Other,19-07-2023,3.392925098,46,3,Phoenix,Australia,2940,11,9,No
+Dale,Warren,Chemistry,23,Other,18-10-2015,3.982660305,33,3,Dallas,UK,1523,6,4,No
+Christopher,Simpson,Physics,21,Male,08-10-2019,2.748085748,76,2,Houston,UK,3015,11,8,Yes
+Brandon,Price,Literature,28,Male,03-12-2020,2.863809604,1,5,Houston,UK,3190,11,1,No
+Cynthia,Johnson,History,25,Other,27-02-2017,2.215982427,9,5,Houston,Canada,3786,2,5,Yes
+Elizabeth,Noble,Biology,18,Female,30-12-2021,3.569823046,92,5,New York,UK,3240,15,3,No
+Stephen,Williams,Engineering,27,Female,18-03-2019,3.74106717,25,2,Los Angeles,India,4459,19,10,Yes
+Martin,Lam,Engineering,26,Female,29-04-2016,3.555330569,79,4,Houston,India,3934,13,6,No
+William,Bennett,Mathematics,28,Male,25-06-2017,2.004125218,80,3,Austin,Australia,4354,5,1,Yes
+Melanie,Wu,Biology,27,Male,03-07-2021,2.66679298,24,1,Los Angeles,Canada,2179,2,10,No
+Cody,Valenzuela,Chemistry,23,Other,07-08-2022,3.280303172,8,8,Dallas,France,2049,3,1,No
+Lauren,Hood,Chemistry,21,Female,13-07-2022,3.370293952,30,7,Austin,USA,4455,15,9,No
+Geoffrey,Roberts,History,20,Male,15-06-2018,2.709323426,43,5,Los Angeles,USA,873,19,3,Yes
+Ronnie,Cox,Chemistry,20,Male,29-08-2022,3.397396249,14,2,Los Angeles,UK,1902,4,3,Yes
+Sabrina,Cantu,Biology,28,Male,18-10-2022,3.52170427,30,1,Los Angeles,India,4077,16,2,No
+Robert,Hill,Biology,28,Female,13-08-2019,2.231119562,42,2,Phoenix,UK,1270,0,0,Yes
+Christopher,Bradshaw,Engineering,21,Other,18-01-2018,2.905893239,38,8,Los Angeles,Australia,4017,5,1,No
+Melinda,Thomas,Biology,21,Other,11-11-2022,2.767368219,38,6,San Jose,UK,720,4,9,Yes
+Luis,Graves,Mathematics,23,Male,06-11-2015,2.300786267,1,2,San Jose,France,2478,10,6,No
+Gary,Smith,Physics,27,Female,01-09-2024,3.859488514,1,6,Los Angeles,India,2881,3,6,Yes
+Rachel,Jordan,Literature,28,Male,04-01-2024,3.03680041,93,6,Austin,Canada,3309,8,7,Yes
+Kenneth,Long,Literature,22,Other,08-02-2017,2.092034927,40,2,San Diego,India,4668,6,1,Yes
+Dustin,Chaney,Physics,22,Male,21-10-2018,2.502531285,11,1,San Jose,India,2622,16,4,Yes
+Douglas,Wade,Physics,18,Other,08-05-2022,3.964181926,78,3,San Diego,UK,1835,5,5,No
+Paul,Baird,Mathematics,21,Other,18-08-2017,3.433892988,8,3,Dallas,Australia,1111,15,7,No
+Christopher,Liu,Literature,18,Other,31-12-2022,2.862431666,9,5,Austin,India,4233,16,6,No
+Preston,Smith,Mathematics,19,Female,24-02-2020,3.547045374,31,8,Austin,India,1518,12,8,Yes
+Alexandra,Garcia,Physics,23,Male,18-04-2022,3.835598828,39,3,New York,Australia,2885,3,5,No
+Colton,Hale,Engineering,20,Other,08-03-2022,2.138710007,18,6,Houston,India,2452,11,2,Yes
+Donald,Hill,Physics,29,Male,21-11-2020,2.622535014,33,2,San Diego,Australia,2378,14,5,Yes
+Daniel,Hernandez,Literature,30,Other,03-05-2024,2.096173791,31,5,Houston,India,2461,9,7,No
+Lindsey,Bell,Chemistry,22,Other,10-11-2023,3.025580708,73,2,Austin,France,1652,10,0,No
+Sandra,Logan,Literature,27,Other,06-03-2024,3.736308352,85,2,Houston,France,862,1,4,No
+Randy,Rodriguez,Mathematics,24,Female,11-11-2019,2.929972932,88,5,San Jose,Australia,795,14,5,Yes
+Veronica,Stevens,Mathematics,18,Other,17-02-2024,3.90929318,58,1,Houston,Australia,3114,17,7,Yes
+Norman,Robinson,Biology,19,Male,02-04-2018,3.945325232,32,6,Chicago,Canada,4731,15,1,Yes
+Jennifer,Castaneda,Chemistry,19,Other,06-05-2019,3.997276513,82,2,Houston,India,4480,12,5,No
+Sheri,Martin,Physics,20,Other,04-02-2020,2.788175775,47,3,San Diego,India,1393,20,0,No
+Deanna,Rose,Engineering,21,Other,10-08-2024,2.444807491,92,7,Houston,UK,2607,9,8,Yes
+Jennifer,Stein,Biology,28,Other,21-01-2019,3.008161048,9,4,San Diego,Australia,4992,15,4,Yes
+Carlos,Romero,Physics,21,Other,30-10-2022,3.832557028,51,5,Dallas,India,2060,8,4,Yes
+Steven,Johnson,Mathematics,28,Female,29-08-2017,2.161114549,26,8,Dallas,USA,3717,6,0,Yes
+Linda,Torres,Chemistry,24,Male,20-06-2022,3.477790987,32,4,Dallas,India,1495,3,5,Yes
+Donald,Hall,Literature,19,Male,15-10-2024,3.97988116,99,6,Austin,Germany,3333,19,7,No
+Edwin,Noble,Physics,21,Other,22-01-2017,3.558306916,61,7,Chicago,USA,3536,17,5,No
+Keith,Payne,Mathematics,25,Female,05-01-2019,3.231429546,19,2,Los Angeles,USA,633,16,7,No
+Chris,Johnston,Computer Science,30,Other,18-01-2018,3.167305668,77,2,Phoenix,UK,4930,3,9,Yes
+Angela,Fisher,Physics,19,Female,17-04-2017,2.134469632,85,2,Los Angeles,India,1570,12,2,No
+Benjamin,Klein,Engineering,28,Other,22-03-2024,3.170172114,80,6,San Jose,India,1958,4,2,Yes
+Danielle,Martin,Biology,19,Other,06-04-2020,2.616880887,79,7,San Diego,Canada,1175,9,9,Yes
+Derek,Buchanan,Biology,22,Other,22-07-2015,2.40952557,6,3,Austin,France,543,20,8,No
+Bryan,Smith,Mathematics,30,Female,18-02-2018,2.797307648,20,3,Phoenix,Germany,1242,13,2,Yes
+Martin,Smith,History,25,Male,21-07-2024,3.866865096,24,6,Houston,Canada,3027,20,1,Yes
+Victoria,Hill,Physics,30,Male,02-07-2016,2.082739292,46,8,Houston,France,1315,14,10,Yes
+Frank,Hayes,Engineering,28,Male,25-01-2020,2.045071142,36,1,Dallas,USA,3096,12,6,Yes
+Edward,York,Engineering,24,Other,22-12-2024,3.775541675,81,4,Chicago,USA,4620,18,2,Yes
+Mary,Shannon,Mathematics,20,Other,10-02-2024,3.641738837,44,4,Houston,Canada,742,11,4,Yes
+Donna,Reed,Chemistry,23,Male,11-03-2024,2.920599053,32,8,Phoenix,Australia,3424,8,5,No
+John,Wright,Chemistry,27,Female,30-05-2016,2.669166422,52,5,San Jose,Canada,2815,2,5,No
+Jill,Miller,Biology,24,Other,28-04-2023,3.722698484,78,5,Chicago,Canada,1482,5,0,No
+Courtney,Haynes,Physics,22,Other,04-11-2024,2.501545619,97,4,Los Angeles,India,2557,16,2,Yes
+Beverly,Wilkins,Biology,28,Male,17-01-2025,2.660327007,34,5,Los Angeles,Germany,4204,14,9,No
+Paul,Wiggins,Mathematics,27,Male,15-11-2018,3.186726443,87,3,Phoenix,Canada,1153,19,0,Yes
+Alexis,Bernard,Physics,18,Other,29-06-2020,3.512208979,13,6,Dallas,Germany,2387,1,3,No
+Carrie,Roberson,Engineering,30,Female,23-04-2020,3.241806528,87,6,San Jose,India,1336,4,9,Yes
+Erica,Griffith,Physics,29,Other,21-05-2022,3.116159047,5,5,Los Angeles,UK,3395,12,8,No
+Jeremy,Howard,Chemistry,20,Female,22-02-2023,2.209421108,92,7,San Diego,India,2539,20,7,Yes
+Sonya,Smith,Mathematics,24,Male,17-11-2018,2.245767469,71,8,Los Angeles,UK,1442,19,6,Yes
+Alexis,Yates,Mathematics,22,Male,01-04-2022,3.924464669,41,6,San Jose,Australia,3313,7,0,Yes
+Michael,Martinez,Biology,30,Male,14-12-2016,2.51129164,88,4,Chicago,Germany,3430,4,5,Yes
+Peter,Peters,Engineering,20,Other,26-02-2022,2.173247983,84,6,Los Angeles,Australia,2054,9,1,No
+Brian,Mcintyre,Computer Science,28,Male,12-11-2022,3.593268883,16,2,Dallas,USA,3223,2,6,No
+Dennis,Davis,Biology,29,Male,09-09-2015,3.857799485,23,7,San Diego,France,978,15,0,Yes
+Tracy,Martin,Mathematics,21,Female,30-05-2023,2.355343012,23,6,Los Angeles,Germany,3814,10,2,Yes
+Jenna,Mullen,Engineering,18,Female,01-04-2023,2.331065761,49,4,Phoenix,Australia,2376,3,9,Yes
+Daniel,Miller,Mathematics,21,Female,13-05-2019,2.379546619,70,7,New York,Canada,3997,13,3,Yes
+Darryl,Pacheco,Literature,24,Male,28-02-2023,2.436385748,34,7,San Jose,UK,2048,15,0,Yes
+Andrew,Cohen,Computer Science,18,Other,15-08-2020,3.511063417,66,2,Dallas,India,3491,13,4,No
+Ian,Ramirez,History,22,Other,13-02-2021,3.385567238,23,6,Chicago,France,1808,0,10,No
+Shane,Moran,Biology,29,Female,02-12-2020,2.55149252,65,8,Austin,India,3349,18,5,No
+Joseph,Santana,Computer Science,28,Female,11-08-2016,3.595870684,65,3,San Jose,Germany,3783,15,2,No
+Sergio,Hughes,Biology,22,Male,05-06-2019,3.165360277,23,1,Los Angeles,India,1116,19,8,Yes
+Patrick,Scott,History,19,Other,07-04-2022,2.719857768,12,7,Houston,Germany,2776,7,10,No
+Sharon,Miller,Engineering,28,Other,10-02-2025,2.239080045,50,1,Austin,India,4319,7,10,No
+Caleb,Dominguez,Mathematics,28,Female,24-08-2021,2.974603768,3,4,Austin,Germany,1961,18,7,No
+Courtney,Anderson,History,22,Other,26-09-2021,3.476409691,76,8,Los Angeles,UK,2793,1,3,Yes
+Devin,Martin,Mathematics,28,Female,28-04-2023,2.52932018,63,8,New York,USA,4596,11,5,Yes
+Patrick,Mitchell,Physics,18,Other,01-07-2018,2.61907088,24,5,Phoenix,Germany,4119,2,7,Yes
+Steven,Hernandez,Mathematics,29,Male,25-05-2019,3.728198315,39,5,San Diego,Canada,4265,0,1,No
+Morgan,Smith,Literature,18,Male,13-01-2018,2.650383845,75,7,San Jose,USA,3742,18,5,Yes
+James,Sosa,Engineering,22,Female,28-09-2022,2.678353276,50,8,Phoenix,Germany,1001,9,5,Yes
+Jamie,Vasquez,Engineering,24,Male,08-06-2020,3.61284522,25,2,Chicago,UK,3867,5,6,Yes
+Travis,Kelly,Literature,27,Other,10-06-2018,2.908918975,57,8,Los Angeles,Australia,2314,0,9,No
+Jamie,Calhoun,Biology,21,Other,22-08-2024,2.312738568,31,6,Los Angeles,France,1425,18,5,Yes
+Nichole,Torres,Literature,18,Other,20-05-2023,2.952950677,50,5,San Diego,India,2295,9,3,No
+Carrie,Smith,Literature,18,Other,11-01-2021,2.634215288,26,1,Dallas,USA,2855,0,10,Yes
+Ashlee,Diaz,Physics,30,Male,17-03-2018,2.412582963,13,8,Austin,Canada,3026,10,3,No
+Gina,Khan,Computer Science,19,Male,15-07-2017,3.674603572,98,8,San Diego,USA,4921,20,6,Yes
+Angela,Hamilton,Engineering,27,Other,25-12-2016,2.964499654,47,5,San Jose,UK,1105,6,1,No
+Holly,Cooper,Chemistry,26,Male,14-05-2023,3.515172524,4,6,Chicago,UK,612,12,9,No
+Alicia,Watson,Chemistry,27,Male,14-05-2021,2.901533,72,1,Houston,UK,976,20,10,Yes
+Jeffrey,Franklin,Physics,29,Other,04-04-2022,3.57464718,80,5,Chicago,Germany,2552,3,7,No
+Stacy,Reese,Physics,21,Female,01-04-2023,2.124775947,100,2,Austin,France,4196,8,4,No
+Lindsey,Price,Computer Science,24,Other,06-04-2016,2.399418738,92,7,Houston,Germany,1267,7,8,No
+Stephanie,Dyer,History,29,Male,04-12-2022,3.378188924,5,7,Austin,Germany,3958,5,9,No
+Jodi,Lopez,Engineering,27,Male,12-10-2024,2.981584889,24,3,Los Angeles,Germany,4097,19,10,Yes
+Joshua,Oliver,Literature,23,Male,06-09-2020,2.812091826,64,6,Dallas,France,3287,7,0,Yes
+Nicholas,Knight,Chemistry,28,Female,06-05-2019,2.007443152,96,7,Chicago,USA,4450,14,5,Yes
+Juan,Martin,Computer Science,27,Female,03-08-2021,3.545606993,94,2,Phoenix,Germany,3936,5,4,Yes
+Margaret,Sanders,Chemistry,18,Other,05-02-2023,3.055572254,12,4,Dallas,USA,4846,8,4,No
+Christopher,Hawkins,Chemistry,27,Male,02-05-2016,3.142945452,65,5,Los Angeles,USA,3594,6,1,No
+Melissa,Jones,Chemistry,18,Female,28-10-2017,2.984285028,85,7,Phoenix,Australia,3185,7,6,Yes
+Kara,Mercer,Physics,19,Other,04-02-2016,2.279471042,2,5,San Jose,Germany,4812,14,8,No
+Nicole,Lopez,Literature,27,Female,08-11-2023,3.015215507,8,2,Austin,USA,4385,14,6,Yes
+Joshua,Collins,Physics,28,Female,26-12-2018,2.262176704,0,8,San Diego,Germany,4490,10,2,Yes
